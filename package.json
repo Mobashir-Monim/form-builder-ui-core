@@ -1,0 +1,22 @@
+{
+  "name": "form-builder-ui-core",
+  "version": "0.9.0",
+  "description": "Logical core for building the UI of a form builder application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mobashir-Monim/form-builder-ui-core.git"
+  },
+  "author": "mobashir-monim",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Mobashir-Monim/form-builder-ui-core/issues"
+  },
+  "homepage": "https://github.com/Mobashir-Monim/form-builder-ui-core#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
